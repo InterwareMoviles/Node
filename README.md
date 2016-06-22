@@ -1,4 +1,17 @@
 # Estándares de programación en Node.js
+
+## Índice
+- [Estructura de código](#estructura-de-código)
+- [Estándares de codificación](#estándares-de-codificación)
+- [Convención de nombres](#convención-de-nombres)
+- [Espacios](#espacios)
+- [Identación de código](#identación-de-código)
+- [Comentarios](#comentarios)
+- [If Statement](#if-statement)
+- [Switch Statement](#switch-statement)
+- [Try Statement](#try-statement)
+- [Asignaciones](#asignaciones)
+
 Estructura de código
 --------------------
 La estructura de directorios sigue un patrón MVC:
