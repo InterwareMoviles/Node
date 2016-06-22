@@ -45,7 +45,7 @@ Ejemplo:
     tax = 15;
 
 **Espacios**
-Siempre poner espacios antes y después de los operadores ( = + - * /)
+<br>Siempre poner espacios antes y después de los operadores ( = + - * /)
 
     var x = y + z;
     var values = ["este", "es", "un", "ejemplo"];
@@ -74,7 +74,7 @@ Por ejemplo:
 - Utilizar bloques de código /**/ para documentación formal.
 
 **If Statement**
-La estructura if, debe tener siempre la siguiente forma:
+<br>La estructura if, debe tener siempre la siguiente forma:
 
     if (condition) {
 	    statements
@@ -85,7 +85,7 @@ La estructura if, debe tener siempre la siguiente forma:
 	}
 	
 **Switch Statement**
-La estructura switch, debe tener siempre la siguiente forma:
+<br>La estructura switch, debe tener siempre la siguiente forma:
 
     switch(expression) {
 	    case expression:
@@ -95,7 +95,7 @@ La estructura switch, debe tener siempre la siguiente forma:
 	}
 
 **Try Statement**
-La estructura try-catch, debe tener siempre la siguiente forma:
+<br>La estructura try-catch, debe tener siempre la siguiente forma:
 
     try {
 	    statements
