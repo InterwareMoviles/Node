@@ -25,14 +25,14 @@ La estructura de directorios sigue un patrón MVC:
 Dónde xxx es un nombre en inglés que describe el contenido del código. 
 
 
-## Estándares de codificación ##
+## Estándares de codificación
 
 Los estándares de codificación aseguran la calidad del código lo cual se traduce en:
 
  - Mejora la lectura del código.
  - Hace sencillo el mantenimiento del código.
 
-**Convención de nombres**
+## Convención de nombres
 
 - Siempre utilizar camelCase para nombrar variables y funciones.
 - Todos los nombres deben iniciar con una letra.
@@ -44,7 +44,7 @@ Ejemplo:
     price = 19.9;
     tax = 15;
 
-**Espacios**
+## Espacios
 <br>Siempre poner espacios antes y después de los operadores ( = + - * /)
 
     var x = y + z;
@@ -55,13 +55,13 @@ Ejemplo:
 - Después de una palabra reservada que se encuentre antes de un signo (
 - Después de una “,” 
 
-**Identación de código**
+## Identación de código
 - El código debe ser identado por 2 espacios.
 - No usar TABS para identar
 - Evitar la líneas muy largas, los lugares ideales para poner un salto de línea son después de: ( paréntesis izq, [ bracket izq, , comma o antes de . punto, ? signo de interrogación o : dos puntos.
 - Poner punto y coma al final de cada línea.
 
-**Comentarios**
+## Comentarios
 
  - Ser generoso con los comentarios. 
  - Evitar poner comentarios obvios.
@@ -73,7 +73,7 @@ Por ejemplo:
 - Mantener los comentarios actualizados.
 - Utilizar bloques de código /**/ para documentación formal.
 
-**If Statement**
+## If Statement
 <br>La estructura if, debe tener siempre la siguiente forma:
 
     if (condition) {
@@ -84,7 +84,7 @@ Por ejemplo:
 		statements
 	}
 	
-**Switch Statement**
+## Switch Statement
 <br>La estructura switch, debe tener siempre la siguiente forma:
 
     switch(expression) {
@@ -94,7 +94,7 @@ Por ejemplo:
 			statements
 	}
 
-**Try Statement**
+## Try Statement
 <br>La estructura try-catch, debe tener siempre la siguiente forma:
 
     try {
@@ -105,7 +105,7 @@ Por ejemplo:
 		statements
 	}
 
-**Asignaciones**
+## Asignaciones
 
  - No realizar asignaciones en la parte condicional de una estructura if
    o while. 
